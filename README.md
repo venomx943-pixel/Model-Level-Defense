@@ -1,4 +1,4 @@
-# Model-Level Guardrails & Real-Time Content Moderation (`Project #7`)
+# Model-Level Guardrails & Real-Time Content Moderation 
 
 A high-performance, real-time safety classification middleware designed to protect Large Language Model (LLM) cores against **Advanced Semantic Jailbreaks**, **Developer Mode Evasions**, and unauthorized malware generation payloads.
 
